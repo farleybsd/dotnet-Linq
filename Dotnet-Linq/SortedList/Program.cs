@@ -34,7 +34,7 @@ namespace SortedList
             // Imprimindo Aluno
             Imprimir(alunos);
 
-            // Ordenando Dicionario.... SortedList
+            // Ordenando Dicionario.... SortedList implementa uma lista
             IDictionary<string, Aluno> sorterd = new SortedList<string, Aluno>();
 
             sorterd.Add("VT", new Aluno("Vanessa", 34672));
