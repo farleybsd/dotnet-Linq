@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Arrays", "Jagged_Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultandoCollectionsLinq", "ConsultandoCollectionsLinq\ConsultandoCollectionsLinq.csproj", "{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consultas_ Com_Linq", "Consultas_ Com_Linq\Consultas_ Com_Linq.csproj", "{2913B48F-87B8-4A10-9E90-87409BAD7924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2913B48F-87B8-4A10-9E90-87409BAD7924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2913B48F-87B8-4A10-9E90-87409BAD7924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2913B48F-87B8-4A10-9E90-87409BAD7924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2913B48F-87B8-4A10-9E90-87409BAD7924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
