@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Multidimensional", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged_Arrays", "Jagged_Arrays\Jagged_Arrays.csproj", "{9CC2EB9A-B4FC-44D3-B07E-01259BF3FDD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultandoCollectionsLinq", "ConsultandoCollectionsLinq\ConsultandoCollectionsLinq.csproj", "{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9CC2EB9A-B4FC-44D3-B07E-01259BF3FDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CC2EB9A-B4FC-44D3-B07E-01259BF3FDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CC2EB9A-B4FC-44D3-B07E-01259BF3FDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263FCF10-BB08-4DDD-ADB1-CCC97A5E4C5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
